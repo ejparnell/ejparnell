@@ -13,8 +13,13 @@ This is the place where I keep my projects and experiments. Feel free to look ar
 
 ![](https://raw.githubusercontent.com/ejparnell/ejparnell/master/profile-summary-card-output/github/0-profile-details.svg)
 
-|  |  |
-| --- | --- |
-| ![](https://raw.githubusercontent.com/ejparnell/ejparnell/master/profile-summary-card-output/github/1-repos-per-language.svg) | ![](https://raw.githubusercontent.com/ejparnell/ejparnell/master/profile-summary-card-output/github/2-most-commit-language.svg) |
-| ![](https://raw.githubusercontent.com/ejparnell/ejparnell/master/profile-summary-card-output/github/3-stats.svg) | ![](https://raw.githubusercontent.com/ejparnell/ejparnell/master/profile-summary-card-output/github/4-productive-time.svg) |
-
+<div style="display: grid;
+grid-template-columns: repeat(2, 1fr);
+grid-template-rows: repeat(2, 1fr);
+grid-column-gap: 10px;
+grid-row-gap: 10px;">
+<img src="https://raw.githubusercontent.com/ejparnell/ejparnell/master/profile-summary-card-output/github/1-repos-per-language.svg">
+<img src="https://raw.githubusercontent.com/ejparnell/ejparnell/master/profile-summary-card-output/github/2-most-commit-language.svg">
+<img src="https://raw.githubusercontent.com/ejparnell/ejparnell/master/profile-summary-card-output/github/3-stats.svg">
+<img src="https://raw.githubusercontent.com/ejparnell/ejparnell/master/profile-summary-card-output/github/4-productive-time.svg">
+<div>

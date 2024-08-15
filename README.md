@@ -11,8 +11,8 @@ This is the place where I keep my projects and experiments. Feel free to look ar
 
 ## GitHub Stats
 
-![](https://raw.githubusercontent.com/ejparnell/ejparnell/master/profile-summary-card-output/github/0-profile-details.svg)
-
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+<img style="margin-bottom: 10px;" src="https://raw.githubusercontent.com/ejparnell/ejparnell/master/profile-summary-card-output/github/0-profile-details.svg">
 <div style="display: grid;
 grid-template-columns: repeat(2, 1fr);
 grid-template-rows: repeat(2, 1fr);
@@ -23,3 +23,4 @@ grid-row-gap: 10px;">
 <img src="https://raw.githubusercontent.com/ejparnell/ejparnell/master/profile-summary-card-output/github/3-stats.svg">
 <img src="https://raw.githubusercontent.com/ejparnell/ejparnell/master/profile-summary-card-output/github/4-productive-time.svg">
 <div>
+</div>

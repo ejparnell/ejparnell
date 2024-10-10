@@ -1,5 +1,4 @@
-# Hi there!
-
+# Hi there! 👋
 
 This is the place where I keep my projects and experiments. Feel free to look around and use anything you find interesting.
 
@@ -9,7 +8,7 @@ This is the place where I keep my projects and experiments. Feel free to look ar
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/elizabethjparnell/)
 - ⚡ Fun fact: I am that childless cat lady that everyone warned you about
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
 <img style="margin-bottom: 10px;" src="https://raw.githubusercontent.com/ejparnell/ejparnell/master/profile-summary-card-output/github/0-profile-details.svg">
@@ -23,4 +22,4 @@ grid-row-gap: 10px;">
 <img src="https://raw.githubusercontent.com/ejparnell/ejparnell/master/profile-summary-card-output/github/3-stats.svg">
 <img src="https://raw.githubusercontent.com/ejparnell/ejparnell/master/profile-summary-card-output/github/4-productive-time.svg">
 <div>
-</div>
+</div> -->
